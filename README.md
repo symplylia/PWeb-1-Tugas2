@@ -3,3 +3,6 @@ Tugas ini dibuat dengan
 - HTML
 - CSS
 - JavaScript
+
+#<a href="https://www.w3schools.com">This is a link</a>
+-digunakan untuk masuk ke dalam link
