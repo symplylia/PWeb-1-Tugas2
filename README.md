@@ -60,7 +60,7 @@ text color digunakan untuk memberi warna pada text
 <p class="p3">This is a paragraph, shown in the Lucida Console font.</p>
 
 </body>
-</html>
+</html><br>
 
 
 
